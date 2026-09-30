@@ -145,24 +145,6 @@ else:
 	print("Grade: F")
 
 
-# 15. Print student details
-print("Student Name:")
-print("Address:")
-print("Contact _No:")
-print("Mother Tongue:")
-print("School_Name:")
-print("Year:")
-print("Panel:")
-print("Roll_No:")
-
-# 15(b). These fields are hidden using a multi-line comment.
-"""
-print("Address:")
-print("Contact _No:")
-print("Mother Tongue:")
-"""
-
-
 # 16. Calculate percentage and display highest and lowest subject marks
 student_name = input("Enter student name: ")
 roll_number = input("Enter roll number: ")
