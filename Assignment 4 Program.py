@@ -57,3 +57,27 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+#OUTPUT
+'''Matrix Addition
+Enter number of rows:  3
+Enter number of columns:  3
+Enter elements of Matrix A row by row:
+Row 1:  2 3 4
+Row 2:  5 6 7
+Row 3:  9 10 11
+Enter elements of Matrix B row by row:
+Row 1:  23 24 25
+Row 2:  12 14 16
+Row 3:  32 33 34
+
+Addition using Python lists:
+25 27 29
+17 20 23
+41 43 45
+
+Addition using NumPy arrays:
+25 27 29
+17 20 23
+41 43 45
+'''
